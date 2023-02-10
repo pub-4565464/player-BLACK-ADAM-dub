@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://dl.videas.fr/v-medias/s3/uploaded/Black.Adam.2022.SUBFORCED.TRUEFRENCH.1080p.WEB.H264.mp4?fileName=blackadam2022subforcedtruefrench1080pwebh264mp4-source.mp4",
+            "https://s-delivery40.mxdcontent.net/d/enp7dodgtq1qj9/hqif75xgi83y3sw2t5ir5gzs42t2b?ab=0&r=https%3A%2F%2Fmixdrop.gl%2Ff%2Fenp7dodgtq1qj9",
           label: "720p"
         },
         {
