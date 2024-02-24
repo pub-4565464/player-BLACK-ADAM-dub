@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "https://s-delivery40.mxdcontent.net/d/enp7dodgtq1qj9/hqif75xgi83y3sw2t5ir5gzs42t2b?ab=0&r=https%3A%2F%2Fmixdrop.gl%2Ff%2Fenp7dodgtq1qj9",
+            "https://cdn.dzen.ru/vod/converted-video/vod-content/69/03/28/30/38/61/66/55/86/4/59ab9da3-bf20-4503-9ffa-54050b3ac34e/kaltura/desc_fa08eedc402850edb40b2be62db2ed9f/vI0inbWycI3E/ysign1=fcad22db32fd79dac112e74c3689d82a5ba7cc6889fce8307b22307c14533532,abcID=967,from=zen,pfx,region=10000,sfx,ts=65e0ef7d/vw=1920,vh=1080,fps=24.00,vbrt=1935151,abrt=129506,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
           label: "720p"
         },
         {
